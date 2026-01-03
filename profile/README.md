@@ -16,12 +16,7 @@ A powerful all-in-one bot that merges functionality and design to elevate your s
 
 ### 🚀 Key Features
 
-- 🎨 Custom profile pages
-- 📊 Analytics dashboard
-- 🔗 Link management
-- 💾 File hosting (100GB for Pro)
-- 📧 Custom email addresses
-- 🌐 Custom domains
+- Soon
 
 ## 📈 Bot Stats
 
