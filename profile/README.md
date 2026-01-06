@@ -1,6 +1,6 @@
 <div align="center">
   <div style="width: 100%; max-width: 800px; border-radius: 10px; overflow: hidden; margin: 0 auto;">
-    <img src="https://i.postimg.cc/YC8JYLCM/1764451193692b63790ec06.png" alt="noreply banner" style="width: 100%; height: auto;" />
+    <img src="https://i.postimg.cc/j566nPRh/333.png" alt="noreply banner" style="width: 100%; height: auto;" />
   </div>
 
   # wisp bot
