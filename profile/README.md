@@ -38,7 +38,7 @@ A powerful all-in-one bot that merges functionality and design to elevate your s
 
 ## 📈 Bot Stats
 
-- 600.000+ Active Users
+- 200.000+ Active Users
 - 700+ Servers
 
 <div align="center">
