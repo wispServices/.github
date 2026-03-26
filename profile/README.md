@@ -39,7 +39,7 @@ A powerful all-in-one bot that merges functionality and design to elevate your s
 ## 📈 Bot Stats
 
 - 200.000+ Active Users
-- 700+ Servers
+- 800+ Servers
 
 <div align="center">
   <sub>Built with 💕 by the Wisp bot team</sub>
