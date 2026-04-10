@@ -1,13 +1,13 @@
 <div align="center">
   <div style="width: 100%; max-width: 800px; border-radius: 10px; overflow: hidden; margin: 0 auto;">
-    <img src="https://i.postimg.cc/j5x4ZnCy/555.png" alt="noreply banner" style="width: 70%; height: auto;" />
+    <img src="https://i.postimg.cc/y6cxspch/tab.png" alt="noreply banner" style="width: 70%; height: auto;" />
   </div>
 
   # wisp bot
 
   🌸 Building the future of digital identity
 
-[![Discord](https://img.shields.io/discord/1309938550799601774?style=for-the-badge&color=d1d2d1&labelColor=454545&label=discord&logo=discord&logoColor=white)](https://discord.gg/noreply)
+[![Discord](https://img.shields.io/discord/1309938550799601774?style=for-the-badge&color=5f828d&labelColor=97c4cd&label=discord&logo=discord&logoColor=white)](https://discord.gg/noreply)
 </div>
 
 ## 👋 About Us
