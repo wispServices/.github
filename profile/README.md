@@ -1,13 +1,13 @@
 <div align="center">
   <div style="width: 100%; max-width: 800px; border-radius: 10px; overflow: hidden; margin: 0 auto;">
-    <img src="https://i.postimg.cc/y6cxspch/tab.png" alt="noreply banner" style="width: 70%; height: auto;" />
+    <img src="https://i.postimg.cc/90zDgt63/124124.png" alt="noreply banner" style="width: 70%; height: auto;" />
   </div>
 
   # wisp bot
 
   🌸 Building the future of digital identity
 
-[![Discord](https://i.postimg.cc/90zDgt63/124124.png?style=for-the-badge&color=806cc3&labelColor=000000&label=discord&logo=discord&logoColor=white)](https://discord.gg/noreply)
+[![Discord](https://img.shields.io/discord/1309938550799601774?style=for-the-badge&color=806cc3&labelColor=000000&label=discord&logo=discord&logoColor=white)](https://discord.gg/noreply)
 </div>
 
 ## 👋 About Us
@@ -38,8 +38,8 @@ A powerful all-in-one bot that merges functionality and design to elevate your s
 
 ## 📈 Bot Stats
 
-- 200.000+ Active Users
-- 800+ Servers
+- 600.000+ Active Users
+- 600+ Servers
 
 <div align="center">
   <sub>Built with 💕 by the Wisp bot team</sub>
