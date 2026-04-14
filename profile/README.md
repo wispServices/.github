@@ -7,7 +7,7 @@
 
   🌸 Building the future of digital identity
 
-[![Discord](https://img.shields.io/discord/1309938550799601774?style=for-the-badge&color=5f828d&labelColor=97c4cd&label=discord&logo=discord&logoColor=white)](https://discord.gg/noreply)
+[![Discord](https://i.postimg.cc/90zDgt63/124124.png?style=for-the-badge&color=806cc3&labelColor=000000&label=discord&logo=discord&logoColor=white)](https://discord.gg/noreply)
 </div>
 
 ## 👋 About Us
