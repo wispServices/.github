@@ -3,7 +3,7 @@
     <img src="https://i.postimg.cc/P5MHzvSp/banner.png" alt="wispService" style="width: 70%; height: auto;" />
   </div>
 
-  # wisp bot
+  # Wisp Discord Bot
 
   🌸 Создание будущего в сфере Discord ботов
 
