@@ -5,42 +5,42 @@
 
   # wisp bot
 
-  🌸 Building the future of digital identity
+  🌸 Создание будущего в сфере Discord ботов
 
 [![Discord](https://img.shields.io/discord/1309938550799601774?style=for-the-badge&color=7763fa&labelColor=000000&label=discord&logo=discord&logoColor=white)](https://discord.gg/noreply)
 </div>
 
-## 👋 About Us
+## 👋 О нас
 
-A powerful all-in-one bot that merges functionality and design to elevate your server management experience.
+Мощный универсальный бот, сочетающий функциональность и дизайн для повышения удобства управления сервером.
 
-### 🚀 Key Features
+### 🚀 Ключевые функции
 
-🛡️ Moderation and Administration
-- A full set of tools such as: Ban, kick, mute (timeout), a warning system (warns) with automatic punishment, as well as flexible chat cleanup.
-- Advanced automation: Set up auto-roles for new members, automatic avatar and banner publishing, and entry pings upon joining the server.
-- Detailed logging: Track all important events—from joins and leaves to message deletions and role changes. Interactive buttons in logs allow for quick response to incidents.
-- Ticket system: Organize efficient user support through a convenient ticket system in private threads.
-- Private channels (VoiceMaster): Allow members to create their own temporary voice channels with one click.
-- Flexible management: Manage channels, roles, emojis, and nicknames, including the ability to enforce a nickname that a user cannot change.
-- Content filtering: Protect your chat with a customizable banned words filter and automatic NSFW image detection.
+🛡️ Модерация и администрирование
+- Полный набор инструментов, таких как: бан, кик, отключение звука (timeout), система предупреждений (warns) с автоматическим наказанием, а также гибкая очистка чата.
+- Расширенная автоматизация: настройка автоматических ролей для новых участников, автоматическая публикация аватаров и баннеров, а также оповещение о входе при подключении к серверу.
+- Подробное ведение журнала: отслеживание всех важных событий — от присоединения и ухода до удаления сообщений и смены ролей. Интерактивные кнопки в журналах позволяют быстро реагировать на инциденты.
+- Система тикетов: Организуйте эффективную поддержку пользователей с помощью удобной системы тикетов в личных сообщениях.
+- Приватные каналы (VoiceMaster): позволяют пользователям создавать свои собственные временные голосовые каналы одним щелчком мыши.
+- Гибкое управление: управляйте каналами, ролями, эмодзи и псевдонимами, включая возможность выбора псевдонима, который пользователь не может изменить.
+- Фильтрация контента: Защитите свой чат с помощью настраиваемого фильтра запрещенных слов и автоматического обнаружения изображений NSFW.
 
-🎉 Entertainment and Social Features
-- Game modules: Play Tic-Tac-Toe, Russian Roulette, Rock-Paper-Scissors, and keep score in a dedicated channel.
-- Marriage system: Make proposals, get married, and compete for a spot on the leaderboard of the longest unions!
-- Numerous RP commands: A vast selection of actions to interact with other members—hug, kiss, hit, pat, dance, and much more.
-- Social systems: Set up birthday congratulations, as well as send anonymous confessions.
-- Starboard & Skullboard: Highlight the best and funniest messages on your server.
+🎉 Развлекательные и социальные функции
+- Игровые модули: Играйте в крестики-нолики, русскую рулетку, Камень-Ножницы-бумага и ведите счет в специальном канале.
+- Система заключения брака: Делайте предложения, вступайте в брак и соревнуйтесь за место в таблице лидеров самых продолжительных союзов!
+- Многочисленные RP—команды: широкий выбор действий для взаимодействия с другими участниками - объятия, поцелуи, удары, похлопывания, танцы и многое другое.
+- Социальные системы: настройка поздравлений с днем рождения, а также отправка анонимных признаний.
+- Starboard и Skullboard: выделите лучшие и смешные сообщения на вашем сервере.
+- 
+🖥️ Социальные сети
+- Просматривайте профили игроков в Roblox, Steam, Minecraft, а также профили пользователей и каналов в Telegram.
+- Система репостов видео в TikTok позволяет загружать видео без водяных знаков и извлекать информацию о видео.
 
-🖥️ Social Media
-- View player profiles for Roblox, Steam, Minecraft, as well as user and channel profiles for Telegram.
-- The TikTok video repost system allows downloading videos without watermarks and retrieving video information.
+## 📈 Статистика бота
 
-## 📈 Bot Stats
-
-- 300.000+ Active Users
-- 1000+ Servers
+- 300.000+ активных пользователей
+- 1000+ серверов
 
 <div align="center">
-  <sub>Built with 💕 by the Wisp bot team</sub>
+  <sub>Создано с 💕 командой Wisp</sub>
 </div>
