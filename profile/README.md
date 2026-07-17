@@ -1,13 +1,13 @@
 <div align="center">
   <div style="width: 100%; max-width: 800px; border-radius: 10px; overflow: hidden; margin: 0 auto;">
-    <img src="https://i.postimg.cc/wxhHr5vy/wispbanner.png" alt="wispService" style="width: 70%; height: auto;" />
+    <img src="https://i.postimg.cc/qR8SG0J3/wisplogo.png" alt="wispService" style="width: 70%; height: auto;" />
   </div>
 
   # Wisp Discord Bot
 
   🌸 Создание будущего в сфере Discord ботов
 
-[![Discord](https://img.shields.io/discord/1309938550799601774?style=for-the-badge&color=7763fa&labelColor=000000&label=discord&logo=discord&logoColor=white)](https://discord.gg/noreply)
+[![Discord](https://img.shields.io/discord/1309938550799601774?style=for-the-badge&color=D4BCD2&labelColor=0e0e0e&label=discord&logo=discord&logoColor=white)](https://discord.gg/noreply)
 </div>
 
 ## 👋 О нас
