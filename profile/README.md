@@ -1,6 +1,6 @@
 <div align="center">
   <div style="width: 100%; max-width: 800px; border-radius: 10px; overflow: hidden; margin: 0 auto;">
-    <img src="https://i.postimg.cc/qR8SG0J3/wisplogo.png" alt="wispService" style="width: 70%; height: auto;" />
+    <img src="https://i.postimg.cc/KvQ6fHpP/wisp-Services.png" alt="wispService" style="width: 70%; height: auto;" />
   </div>
 
   # Wisp Discord Bot
