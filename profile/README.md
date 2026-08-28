@@ -7,7 +7,7 @@
 
   🌸 Создание будущего в сфере Discord ботов
 
-[![Discord](https://img.shields.io/discord/1309938550799601774?style=for-the-badge&color=D4BCD2&labelColor=0e0e0e&label=discord&logo=discord&logoColor=white)](https://discord.gg/noreply)
+[![Discord](https://img.shields.io/discord/1309938550799601774?style=for-the-badge&color=3f3a9e&labelColor=0a0f22&label=discord&logo=discord&logoColor=white)](https://discord.gg/noreply)
 </div>
 
 ## 👋 О нас
